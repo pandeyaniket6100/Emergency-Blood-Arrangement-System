@@ -1,2 +1,6 @@
-# Emergency-Blood-Arrangement-System
-Solve the Problem of People at a time of critical situation.
+# EBAS
+Blood Bank Management System In Bootstrap PHP and MySQL 
+
+#admin login
+username: admin
+password: admin
